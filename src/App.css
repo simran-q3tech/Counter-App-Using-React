@@ -1,0 +1,17 @@
+.container{
+  text-align :centre;
+  margin-top : 50px;
+}
+h1{
+  color: green;
+}
+p{
+  font-size : 24px;
+  color :  rgb(0, 247, 255);
+}
+button{
+  color: red;
+  padding : 10px 20 px;
+  font-size :16px;
+  margin: 5 px;
+}
